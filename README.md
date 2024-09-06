@@ -1,4 +1,4 @@
-# friedavocadoes.github.io
+# friedavocadoes.github.io/reggae-planet/
 Website on Tourism Blog <br />
-Please dont commit to /main <br />
+
 Free to create forks and branches :)
